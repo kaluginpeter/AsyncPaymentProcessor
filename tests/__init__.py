@@ -1,0 +1,1 @@
+# Tests was ai generated due to simplicity reason
