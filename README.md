@@ -6,15 +6,11 @@ persistence + webhook notification), and lets the client poll for the result.
 
 
 ## Contents
-
-- [Architecture](#architecture)
 - [Tech stack](#tech-stack)
 - [Project layout](#project-layout)
-- [Running it](#running-it)
+- [Running it](#quick-start)
 - [API](#api)
 - [Design notes](#design-notes)
-- [Tests](#tests)
-- [What's intentionally out of scope](#whats-intentionally-out-of-scope)
 
 
 ## Tech stack
